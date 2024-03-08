@@ -1,0 +1,1 @@
+start and stop aws elemental media services called media connect and medialive using aws sdk
